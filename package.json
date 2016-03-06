@@ -1,0 +1,29 @@
+{
+  "name": "baidumap-tiledownload",
+  "version": "1.0.0",
+  "description": "百度地图瓦片数据下载",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolo2013/baidumap-tiledownload.git"
+  },
+  "keywords": [
+    "baidumap",
+    "tile"
+  ],
+  "author": "xuhua.yolo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolo2013/baidumap-tiledownload/issues"
+  },
+  "homepage": "https://github.com/yolo2013/baidumap-tiledownload#readme",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.13.4",
+    "mkdirp": "^0.5.1",
+    "request": "^2.69.0"
+  }
+}
